@@ -14,16 +14,27 @@ Hi! 👋 My name is Jose Ignacio
 - Languages and Tools:
   
   
-<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/ruby.svg" width="25" height="25"/> <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg" width="30" height="30">
-<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" width="25" height="25">
-<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" width="25" height="25">
-<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" width="25" height="25">
-<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg" width="25" height="25">
-<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bootstrap.svg" width="25" height="25">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="25" height="25"/>
-<img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="25" height="25"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="25" height="25"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="25" height="25"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" width="25" height="25"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="30" height="30">
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="25" height="25">
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="25" height="25">
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="25" height="25">
+<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="25" height="25">
+<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" width="25" height="25">
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="25" height="25"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-plain.svg" width="25" height="25"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="25" height="25"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="25" height="25"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="25" height="25"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg" width="25" height="25"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="25" height="25"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-original-wordmark.svg" width="25" height="25"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="25" height="25"/>
+
+
+
+
+
 
 
 
