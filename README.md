@@ -14,7 +14,8 @@ Hi! 👋 My name is Jose Ignacio
 - Languages and Tools:
   
   
-<img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" width="25" height="25"/> <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="30" height="30">
+<img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" width="25" height="25"/><img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-plain.svg" width="25" height="25"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="30" height="30">
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="25" height="25">
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="25" height="25">
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="25" height="25">
@@ -27,7 +28,6 @@ Hi! 👋 My name is Jose Ignacio
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="25" height="25"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg" width="25" height="25"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="25" height="25"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-original-wordmark.svg" width="25" height="25"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="25" height="25"/>
 
 
