@@ -14,8 +14,7 @@ Hi! 👋 My name is Jose Ignacio
 - Languages and Tools:
   
   
-<img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" width="25" height="25"/> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="30" height="30">
+<img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" width="25" height="25"/> <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="30" height="30">
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="25" height="25">
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="25" height="25">
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="25" height="25">
