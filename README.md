@@ -12,6 +12,9 @@ Hi! 👋 My name is Jose Ignacio
 :gb: Advanced
 
 <h2>Languages and Tools:</h2>
-<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bootstrap.svg" width="30" height="30" />
-<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg" width="30" height="30" />
+  <div class="inline-block">
+  
+    <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bootstrap.svg" width="30" height="30" />
+    <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg" width="30" height="30" />
+  </div>
 
