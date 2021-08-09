@@ -21,9 +21,9 @@ Hi! 👋 My name is Jose Ignacio
 <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg" width="25" height="25">
 <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bootstrap.svg" width="25" height="25">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="25" height="25"/>
-<img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="25" height="15"/>
+<img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="25" height="25"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="25" height="25"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="30" height="30"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="25" height="25"/>
 
 
 
