@@ -14,7 +14,7 @@ Hi! 👋 My name is Jose Ignacio
 <h2>Languages and Tools:</h2>
   
   
-<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/ruby.svg" width="30" height="30">
+<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/ruby.svg" width="30" height="30"/>
 <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg" width="30" height="30">
 <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" width="30" height="30">
 <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" width="30" height="30">
