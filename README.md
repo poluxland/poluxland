@@ -4,13 +4,6 @@ Hi! 👋 My name is Jose Ignacio
 - 🏡 I design and build houses independently
 - 👨🏻‍💻 I also create and maintain some commercial web applications. 
 - 🌱 I’m currently learning Artificial Intelligence
-
-
-📫 How to reach me: joseignaciojerez@gmail.com
-
-:es: Native
-:gb: Advanced
-
 - Languages and Tools:
   
   
@@ -29,6 +22,14 @@ Hi! 👋 My name is Jose Ignacio
 <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg" width="25" height="25"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="25" height="25"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="25" height="25"/>
+
+
+📫 How to reach me: joseignaciojerez@gmail.com
+
+:es: Native
+:gb: Advanced
+
+
 
 
 
