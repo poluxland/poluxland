@@ -20,6 +20,9 @@ Hi! 👋 My name is Jose Ignacio
  <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" width="25" height="25">
  <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg" width="25" height="25">
  <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bootstrap.svg" width="25" height="25">
+ <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/heroku.svg" width="25" height="25">
+ <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/postgres.svg" width="25" height="25">
+ <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/mysql.svg" width="25" height="25">
    
   
 
