@@ -12,7 +12,7 @@ Hi! 👋 My name is Jose Ignacio
 :gb: Advanced
 
 <h2>Languages and Tools:</h2>
-<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bootstrap.svg">
+<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bootstrap.svg" />
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
 <a href="https://www.w3schools.com/css/" target="_blank"> 
