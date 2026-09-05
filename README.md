@@ -2,7 +2,8 @@ Hi! 👋 My name is Jose Ignacio
 
 - 🔭 I work as an engineer in a Chilean company 🇨🇱
 - 🏡 I design and build houses independently
-- 👨🏻‍💻 I also create and maintain some commercial web applications. 
+- 👨🏻‍💻 I also create and maintain some commercial web applications.
+- 🧠 Philosopher | PhD in Philosophy | MBA | [ORCID](https://orcid.org/0009-0002-3899-7304)
 - 🌱 Researching artificial intelligence with a focus on strong AI, machine agency, and ethical implications.
 - Languages and Tools:
   
